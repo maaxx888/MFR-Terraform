@@ -1,0 +1,5 @@
+terraform-provider-archive_v2.2.0_x5.exe
+terraform-provider-aws_v4.40.0_x5.exe
+terraform-provider-aws_v4.42.0_x5.exe
+.terraform.lock.hcl
+terraform.tfstate.backup
