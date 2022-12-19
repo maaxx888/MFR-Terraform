@@ -1,3 +1,5 @@
+Maxime Frankefort r0831987<br />
+
 Created VPC with 2 public and 2 private subnets, Internet Gateways, Routing Tbale and 2 nats if 1 goes down we still have a second one to work with.<br />
 There are routing tables created to for the communication between everything.<br />
 There is a security group created that allows port 443, 80, 22.<br />
